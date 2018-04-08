@@ -1,0 +1,8 @@
+npm install --save react react-dom prop-types promise-polyfill react-motion whatwg-fetch react-router npm install --save react-router-dom react-router-transition styled-components
+
+
+npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react babel-preset-stage-0 url-loader webpack webpack-dev-server babel-plugin-styled-components eslint-plugin-react babel-eslint eslint-plugin-class-property@latest eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-import
+
+npm install webpack-cli -D
+
+npm i eslint-plugin-class-property@latest --save-dev

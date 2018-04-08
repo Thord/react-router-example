@@ -1,0 +1,864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"ReactDOM"
+			],
+			[
+				"L",
+				"Link"
+			],
+			[
+				"slic",
+				"slicedProductions"
+			],
+			[
+				"slid",
+				"slicedProductions"
+			],
+			[
+				"spring",
+				"springConfig"
+			],
+			[
+				"sp",
+				"springConfig"
+			],
+			[
+				"rand",
+				"randomOrder"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Li",
+				"ListItem"
+			],
+			[
+				"Prod",
+				"ProdList"
+			],
+			[
+				"def",
+				"defStyles"
+			],
+			[
+				"tie",
+				"title"
+			],
+			[
+				"top",
+				"topImages"
+			],
+			[
+				"Pro",
+				"ProductionsList"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"import",
+				"importAll"
+			],
+			[
+				"styel",
+				"stylesArray"
+			],
+			[
+				"mRGI",
+				"margin-top"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"blur",
+				"blurBackground"
+			],
+			[
+				"ma",
+				"makeListview"
+			],
+			[
+				"pdding",
+				"padding-bottom"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"P",
+				"ProductionsList"
+			],
+			[
+				"ran",
+				"randomOrder"
+			],
+			[
+				"App",
+				"AppHeader"
+			],
+			[
+				"Header",
+				"HeaderContainer"
+			],
+			[
+				"Prud",
+				"Productionsheader"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ra",
+				"randomOrder"
+			],
+			[
+				"rest",
+				"restImages"
+			],
+			[
+				"res",
+				"restImages"
+			],
+			[
+				"load",
+				"loadImages"
+			],
+			[
+				"number",
+				"numberOfVideos"
+			],
+			[
+				"numb",
+				"numberOfVideos"
+			],
+			[
+				"c",
+				"currentImage"
+			],
+			[
+				"firt",
+				"firstImages"
+			],
+			[
+				"video",
+				"videoNumber"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pros",
+				"productions"
+			],
+			[
+				"set",
+				"setCategory"
+			],
+			[
+				"Produ",
+				"ProductionsRouter"
+			],
+			[
+				"back",
+				"backgroundImage"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"Edit",
+				"EditorState"
+			],
+			[
+				"C",
+				"ContentState"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"In",
+				"InlineStyleControls"
+			],
+			[
+				"edi",
+				"editorState"
+			],
+			[
+				"Blo",
+				"BlockStyleControls"
+			],
+			[
+				"Tex",
+				"TextEditor"
+			],
+			[
+				"Te",
+				"TextField"
+			],
+			[
+				"S",
+				"SuccessMessage"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"edited",
+				"editedId"
+			],
+			[
+				"F",
+				"Formheader"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"handle",
+				"handleProduction"
+			],
+			[
+				"update",
+				"updateProduction"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"my",
+				"myJSON"
+			],
+			[
+				"produ",
+				"Production"
+			],
+			[
+				"esc",
+				"escapeString"
+			],
+			[
+				"new",
+				"newProduction"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"Productions",
+				"ProductionsList"
+			],
+			[
+				"prod",
+				"productions"
+			],
+			[
+				"newp",
+				"newprods"
+			],
+			[
+				"newprod",
+				"newprod"
+			],
+			[
+				"add",
+				"addProduction"
+			],
+			[
+				"Production",
+				"ProductionForm"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"con",
+				"contests"
+			],
+			[
+				"init",
+				"initialData"
+			],
+			[
+				"api",
+				"apiData"
+			],
+			[
+				"get",
+				"getInitialData"
+			],
+			[
+				"conte",
+				"contestId"
+			],
+			[
+				"curr",
+				"currentContest"
+			],
+			[
+				"contest",
+				"contestId"
+			],
+			[
+				"cont",
+				"contestId"
+			],
+			[
+				"onC",
+				"onContestClick"
+			],
+			[
+				"Contest",
+				"ContestList"
+			],
+			[
+				"Co",
+				"ContestPreview"
+			],
+			[
+				"initial",
+				"initialMarkup"
+			],
+			[
+				"ini",
+				"initialData"
+			],
+			[
+				"server",
+				"serverRender"
+			],
+			[
+				"Re",
+				"ReactDOMServer"
+			],
+			[
+				"testd",
+				"testdata"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"class",
+				"className"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/untitled.js",
+			"settings":
+			{
+				"buffer_size": 1730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import React, { Component } from 'react'\nimport {\n  BrowserRouter as Router,\n  Route,\n  Link,\n} from 'react-router-dom'\n\nimport { log } from '../lib/tools'\n\nimport { topics } from './topics'\n\n\nfunction Resource ({ match }) {\n  const topic = topics.find(({ id }) => id === match.params.topicId)\n    .resources.find(({ id }) => id === match.params.subId)\n\n  return (\n    <div>\n      <h3>{topic.name}</h3>\n      <p>{topic.description}</p>\n      <a href={topic.url}>More info.</a>\n    </div>\n  )\n}\n\nconst Topic = ({ match }) => {\n  log(match)\n  const topic = topics.find(({ id }) => id === match.params.topicId)\n  return (\n    <div>\n      <h2>{topic.name}</h2>\n      <p>{topic.description}</p>\n\n      <ul>\n        {topic.resources.map(sub => (\n          <li key={sub.id}>\n            <Link to={`${match.url}/${sub.id}`}>{sub.name}</Link>\n          </li>\n        ))}\n      </ul>\n\n      <hr />\n\n      <Route path={`${match.path}/:subId`} component={Resource} />\n    </div>\n  )\n}\n\nconst Topics = ({ match }) => {\n  log(match)\n  return (\n    <div>\n      <h1>Topics</h1>\n      <ul>\n        {topics.map(({ name, id }) => (\n          <li key={id}>\n            <Link to={`${match.url}/${id}`}>{name}</Link>\n          </li>\n        ))}\n      </ul>\n\n      <Route path={`${match.path}/:topicId`} render={} />\n\n      <hr />\n\n    </div>\n  )\n}\n\nconst Home = () => (\n  <h1>\n    Home.\n  </h1>\n)\n\nclass App extends Component {\n  render () {\n    return (\n      <Router>\n        <div style={{ width: 1000, margin: '0 auto' }}>\n          <ul>\n            <li><Link to=\"/\">Home</Link></li>\n            <li><Link to=\"/topics\">Topics</Link></li>\n          </ul>\n\n          <hr />\n\n          <Route exact path=\"/\" component={Home} />\n          <Route path=\"/topics\" component={Topics} />\n        </div>\n      </Router>\n    )\n  }\n}\n\nexport default App\n// ",
+			"file": "src/App.js",
+			"file_size": 1834,
+			"file_write_time": 131676156240153618,
+			"settings":
+			{
+				"buffer_size": 1826,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: this.props."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thord/Websidor/React/Playground",
+		"/Users/thord/Websidor/React/Playground/src"
+	],
+	"file_history":
+	[
+		"/Users/thord/Websidor/React/Playground/src/topics.js",
+		"/Users/thord/Websidor/React/Playground/src/Tutorial.js",
+		"/Users/thord/Websidor/React/Playground/package.json",
+		"/Users/thord/Websidor/React/Playground/anteckningar.txt",
+		"/Users/thord/Websidor/React/Playground/.eslintrc.js",
+		"/Users/thord/Websidor/React/Playground/src/About.js",
+		"/Users/thord/Websidor/React/Playground/src/Repos.js",
+		"/Users/thord/Websidor/React/Playground/src/index.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/AppStyles.js",
+		"/Users/thord/Websidor/React/Playground/dist/index.html",
+		"/Users/thord/Websidor/React/Playground/.babelrc",
+		"/Users/thord/Websidor/React/Recipes/package.json",
+		"/Users/thord/Websidor/React/Recipes/webpack.config.js",
+		"/Users/thord/Websidor/React/Router/webpack.config.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Home.js",
+		"/Users/thord/Websidor/Agaton/Site/static.config.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/ProductionsStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Productions.js",
+		"/Users/thord/Websidor/Agaton/Site/lib/loadImages.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/VideoStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/SlideShow.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/TestStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Test.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/ProductionsList.js",
+		"/Users/thord/Websidor/Agaton/Site/lib/tools.js",
+		"/Users/thord/Websidor/Agaton/Site/src/App.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Film.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/FilmStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/SlideShowStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/ProductionsButtons.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/HomeStyles.js",
+		"/Users/thord/Websidor/Agaton/Site/src/index.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Buttons.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Unfold.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/AppHeader.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/paperfold.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/unfold.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Images.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Video.js",
+		"/Users/thord/Websidor/Agaton/Site/.eslintrc.js",
+		"/Users/thord/Websidor/Agaton/Site/node_modules/eslint-config-react-tools/index.js",
+		"/Users/thord/Websidor/Agaton/Site/webpack.config.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Productions_old.js",
+		"/Users/thord/Websidor/Agaton/Site/src/styles/ProductionsStyles_old.js",
+		"/Users/thord/Websidor/Agaton/Site/public/robots.txt",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/About.js",
+		"/Users/thord/Websidor/Agaton/Site/src/containers/Contact.js",
+		"/Users/thord/Websidor/Agaton/Site/package.json",
+		"/Users/thord/Websidor/Agaton/Site/dist/robots.txt",
+		"/Users/thord/Websidor/Agaton/Site/src/images/video/12a.jpg",
+		"/Users/thord/Websidor/Agaton/Site/dist/react-static-routes.js",
+		"/Users/thord/Websidor/Agaton/Site/dist/index.html",
+		"/Users/thord/Websidor/agaton/editor/src/style/form.css",
+		"/Users/thord/Websidor/agaton/editor/src/style/formstyle.js",
+		"/Users/thord/Websidor/agaton/editor/server/server.js",
+		"/Users/thord/Websidor/agaton/editor/public/index.html",
+		"/Users/thord/Websidor/agaton/editor/src/ProductionForm.js",
+		"/Users/thord/Websidor/agaton/editor/src/index.js",
+		"/Users/thord/Websidor/agaton/editor/package.json",
+		"/Users/thord/Websidor/agaton/editor/src/style/_RichEditor.css",
+		"/Users/thord/Websidor/agaton/editor/src/TestEditor.js",
+		"/Users/thord/Websidor/agaton/editor/src/ProductionsList.js",
+		"/Users/thord/Websidor/agaton/editor/src/toolBarConfig.js",
+		"/Users/thord/Websidor/agaton/editor/src/TextEditor.js",
+		"/Users/thord/Websidor/agaton/editor/src/Old_TextEditor.js",
+		"/Users/thord/Websidor/agaton/editor/src/testEditor.js",
+		"/Users/thord/Websidor/agaton/editor/node_modules/event-stream/test/connect.asynct.js",
+		"/Users/thord/Websidor/agaton/editor/tmp/restart.txt",
+		"/Users/thord/Websidor/agaton/site/public/index.html",
+		"/Users/thord/Websidor/agaton/site/webpack.config.js",
+		"/Users/thord/Websidor/agaton/site/package.json",
+		"/Users/thord/Websidor/agaton/package.json",
+		"/Users/thord/Websidor/agaton/server/server.js",
+		"/Users/thord/Websidor/agaton/src/ProductionForm.js",
+		"/Users/thord/Websidor/agaton/validation.js",
+		"/Users/thord/Websidor/agaton/.eslintrc.js",
+		"/Users/thord/Websidor/agaton/config.js",
+		"/Users/thord/Websidor/agaton/webpack.config.js",
+		"/Users/thord/Websidor/agaton/src/style/index.css",
+		"/Users/thord/Websidor/agaton/src/index.js",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/uncomment.sublime-snippet",
+		"/Users/thord/Websidor/agaton/src/ProductionsList.js",
+		"/Users/thord/Websidor/agaton/src/style/form.css",
+		"/Users/thord/Websidor/agaton/anteckningar.txt",
+		"/Users/thord/Websidor/agaton/.gitignore",
+		"/Users/thord/Websidor/agaton/public/index.html",
+		"/Users/thord/Websidor/agaton/.babelrc",
+		"/Users/thord/Websidor/node/jscomplete/server.js",
+		"/Users/thord/Websidor/node/jscomplete/serverRender.js",
+		"/Users/thord/Websidor/node/jscomplete/src/index.js",
+		"/Users/thord/Websidor/node/jscomplete/views/index.ejs",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/ReactClassComponent.sublime-snippet",
+		"/Users/thord/Websidor/node/jscomplete/src/components/ContestPreview.js",
+		"/Users/thord/Websidor/node/jscomplete/src/api.js",
+		"/Users/thord/Websidor/node/jscomplete/src/components/Contest.js",
+		"/Users/thord/Websidor/node/jscomplete/src/components/App.js",
+		"/Users/thord/Websidor/node/jscomplete/src/components/ContestList.js",
+		"/Users/thord/Websidor/node/jscomplete/api/index.js",
+		"/Users/thord/Websidor/node/jscomplete/.gitignore",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/lorem.sublime-snippet",
+		"/Users/thord/Websidor/node/jscomplete/views/header.ejs",
+		"/Users/thord/Websidor/node/jscomplete/views/footer.ejs",
+		"/Users/thord/Websidor/node/jscomplete/config.js",
+		"/Users/thord/Websidor/node/jscomplete/src/components/Header.js",
+		"/Users/thord/Websidor/node/jscomplete/src/testData.json",
+		"/Users/thord/Websidor/node/jscomplete/anteckningar.txt",
+		"/Users/thord/Websidor/node/jscomplete/webpack.config.js",
+		"/Users/thord/Websidor/node/jscomplete/package.json",
+		"/Users/thord/Websidor/node/jscomplete/sass/style.scss",
+		"/Users/thord/Websidor/node/jscomplete/.eslintrc.js",
+		"/Users/thord/Websidor/node/jscomplete/public/style.css",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/log.sublime-snippet",
+		"/Users/thord/Websidor/node/jscomplete/src/components/App_old.js",
+		"/Users/thord/Webb/Node/jscomplete/config.js",
+		"/Users/thord/Webb/Node/jscomplete/public/style.css",
+		"/Users/thord/Webb/Node/jscomplete/server.js",
+		"/Users/thord/Webb/Node/jscomplete/api/index.js",
+		"/Users/thord/Webb/Node/jscomplete/webpack.config.js",
+		"/Users/thord/Webb/Node/jscomplete/package.json",
+		"/Users/thord/Webb/Node/jscomplete/.babelrc",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/importReactDOM.sublime-snippet",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/className.sublime-snippet",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/class.sublime-snippet",
+		"/Users/thord/Webb/Node/jscomplete/src/components/App.js",
+		"/Users/thord/Webb/Node/jscomplete/src/components/contestPreview.js",
+		"/Users/thord/Webb/Node/jscomplete/src/index.js",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/thord/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"Browser",
+			"Router",
+			"modules/",
+			"export ",
+			"Home",
+			"Router",
+			"'",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/untitled.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1730
+							]
+						],
+						"settings":
+						{
+							"SL.109.region_keys":
+							[
+								"SL.eslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.29.region_keys":
+							[
+								"SL.eslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.57.region_keys":
+							[
+								"SL.eslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1289,
+								1289
+							]
+						],
+						"settings":
+						{
+							"SL.110.region_keys":
+							[
+								"SL.eslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.122.region_keys":
+							[
+								"SL.eslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.eslint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot"
+							],
+							"SL.132.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.eslint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 229.0
+	},
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "Play.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Websidor/Agaton/Site/agaton site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
