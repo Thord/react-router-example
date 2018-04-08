@@ -63,8 +63,10 @@ class Topics extends Component {
         <h1>Topics</h1>
         <ul style={{ padding: '5px', listStyleType: 'none' }} >
           {topics.map(({ name, id }) => (
-            <li style={{ border: 'solid green 2px', width: '300px', padding: '5px' }} key={id} className={(open===id) ? 'open' : null}>
-              <Link to={`${match.url}/${id}`} onClick={() => this.handleClick(id)}>{name}</Link>
+            <li style={{ border: 'solid green 2px', width: '300px', padding: '5px' }} key={id} 
+              className={(open===id) ? 'open' : null}>
+              <Link to={`${match.url}/${id}`} 
+                onClick={() => this.handleClick(id)}>{name}</Link>
               <div>
                 {
                   open===id ? <Route path={`${match.path}/:topicId`} render={({ match }) => (
